@@ -81,7 +81,7 @@ const Body = () => {
       <section className="bg-gray-100 p-8 md:p-16">
         <div className="max-w-4xl mx-auto">
           <p className="text-sm md:text-base leading-relaxed tracking-wide text-gray-800">
-            BURASI GUZELK GOZUKSUN DIYE VAR
+            
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quas blanditiis nobis esse minus accusantium voluptatum cum magnam! Totam facilis consequuntur aliquid tempore fuga necessitatibus minus. Placeat odio iure perferendis?
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur eos atque a officiis ducimus unde beatae odio nihil eaque veritatis ullam dolor quasi quam, doloremque cupiditate. Provident laudantium dolorum aliquam!
           </p>
