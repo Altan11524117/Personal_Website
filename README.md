@@ -1,7 +1,7 @@
  React + Vite
 
 
-[Web Sitesi]([personal-website-six-sigma-99.vercel.app](https://personal-website-six-sigma-99.vercel.app/))
+[Web Sitesi](https://personal-website-six-sigma-99.vercel.app/)
 
 
  
