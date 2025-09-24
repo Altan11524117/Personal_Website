@@ -81,7 +81,7 @@ const Footer = () => {
         {/* Copyright - Optional */}
         <div className="mt-8 pt-4 border-t border-gray-300 md:mt-6">
           <p className="text-xs text-gray-500 text-center md:text-left">
-            © 2025 Altan AYDIN +90 5050848255  ALL RIGHTS RESERVED
+            © 2025 Altan AYDIN 2321032065  ALL RIGHTS RESERVED
           </p>
         </div>
       </div>
