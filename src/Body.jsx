@@ -47,7 +47,7 @@ const Body = () => {
               ama frontend pek bana hitap etmiyor  kendimi backend alaninda gelistirmeyi dusunuyorum  ordanda artik daha sipesifik olan alanalara  yol alamk
               ve kendi  saas girismimi kurmak istiyorum.
               <br />
-              Nelerle  Ugrattim ?
+              Nelerle  Ugrastim ?
               Okula  basladigimdan beri tum alanladan biraz biraz arastirip biraz biraz ilgilendim fakat tamamen icime sinen bir yol yok
 
 
@@ -151,13 +151,14 @@ const Body = () => {
         </div>
 
 
-        <div className={`relative ${isMobile ? 'order-4 col-span-1' : 'md:col-span-2'}`}>
+        { /*  <div className={`relative ${isMobile ? 'order-4 col-span-1' : 'md:col-span-2'}`}>
           <img
             src={img2}
             alt="Photography blog post"
             className="w-full h-full object-cover grayscale min-h-[200px] md:min-h-[300px]"
           />
         </div>
+       */ }
       </section>
     </main>
   );
